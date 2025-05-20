@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mono0801&theme=prussian&show_icons=true&count_private=true&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mono0801&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mono0801&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeongho77)](https://github.com/anuraghazra/github-readme-stats) -->
 </div>
