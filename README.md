@@ -50,11 +50,16 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
-
-<td>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mono0801&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mono0801&theme=react&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-</td>
+  <table>  
+    <tr>
+      <td>
+        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mono0801&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true)
+      </td>
+      <td>
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mono0801&theme=react&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+      </td>
+    </tr>
+  </table>
 </div>
 
 #### Top Repositories
