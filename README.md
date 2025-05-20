@@ -40,14 +40,12 @@ Here are some ideas to get you started:
     <br>
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> 
     <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black"/> 
-<img src="http://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="visualstudiocode" height="24"/>  <!-- VS code -->
-<img src="http://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=Git&logoColor=white" alt="git" height="24"/> <!-- Git -->
-<img src="http://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white" alt="github" height="24"/><!-- Github -->
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="mysql" height="24"/><!-- MySQL -->
-
+    <img src="http://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="visualstudiocode" height="24"/>  <!-- VS code -->
+    <img src="http://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=Git&logoColor=white" alt="git" height="24"/> <!-- Git -->
+    <img src="http://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white" alt="github" height="24"/><!-- Github -->
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="mysql" height="24"/><!-- MySQL -->
 </div>
 
-| --- | --- |
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mono0801&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mono0801&theme=react&layout=compact&langs_count=5" /></a> |
 | ------------- | ------------- |
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mono0801&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true) 
