@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div align="center">
   🔥 천 리 길도 한 걸음부터 🔥<br>
   ✋ 안녕하세요 ✋<br>
-  제 이름은 김현호입니다.<br>
+  제 이름은 <b>김현호</b>입니다.<br>
   📖 <b>JavaScript, Node.JS, SpringBoot</b>를 공부하고 있습니다 📖<br>
   문제에 부딪혔을 때 포기하지 않고, 끝까지 해결하려는 끈기와 도전 정신을 가지고 있습니다. 😄 <br>
   세상에 긍정적인 영향을 끼치는 개발자가 되고 싶습니다.
