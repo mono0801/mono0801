@@ -61,6 +61,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <img src="http://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="visualstudiocode" height="24"/>  <!-- VS code -->
   <br>
+
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"> 
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-4A154B?style=flat-square&logo=intellijidea&logoColor=white">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white">
 </div>
 
 <br>
