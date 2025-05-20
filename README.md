@@ -46,6 +46,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="mysql" height="24"/><!-- MySQL -->
 </div>
 
+<br>
+
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mono0801&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mono0801&theme=react&layout=compact&langs_count=5" /></a> |
 | ------------- | ------------- |
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mono0801&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true) 
@@ -54,8 +56,8 @@ Here are some ideas to get you started:
 #### Top Repositories
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mono0801&repo=github-readme-stats&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mono0801&repo=ZIC-Server&theme=default" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mono0801&repo=anuraghazra.github.io&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mono0801&repo=ZIC-Client&theme=default" />
 </a>
