@@ -53,7 +53,8 @@ Here are some ideas to get you started:
   <table>  
     <tr>
       <td>
-        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mono0801&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true)
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mono0801&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true" /></a>
+        <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mono0801&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true) -->
       </td>
       <td>
         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mono0801&theme=react&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
