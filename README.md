@@ -87,6 +87,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/mono0801/MERN-Blog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mono0801&repo=MERN-Blog&theme=default" />
 </a>
-<a href="https://github.com/mono0801/mono0801">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mono0801&repo=mono0801&theme=default" />
-</a>
