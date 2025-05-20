@@ -1,7 +1,7 @@
 # mono0801
 
 <!--
-**jeongho77/jeongho77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mono0801/mono0801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
