@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"> 
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 <br>
 
-| <a href="https://github.com/mono0801"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mono0801&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true" /></a> | <a href="https://github.com/mono0801"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mono0801&theme=react&layout=compact&langs_count=5" /></a> |
+| <a href="https://github.com/mono0801"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mono0801&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true" /></a> | <a href="https://github.com/mono0801"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mono0801&theme=react&layout=compact&langs_count=10" /></a> |
 | ------------- | ------------- |
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mono0801&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mono0801&theme=react&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) -->
