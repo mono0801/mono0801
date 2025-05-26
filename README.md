@@ -74,15 +74,17 @@ Here are some ideas to get you started:
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mono0801&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mono0801&theme=react&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) -->
 
-#### Top Repositories
-
-<a href="https://github.com/mono0801/ZIC-Server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mono0801&repo=ZIC-Server&theme=default" />
-</a>
-<a href="https://github.com/mono0801/ZIC-Client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mono0801&repo=ZIC-Client&theme=default" />
-</a>
-<br>
-<a href="https://github.com/mono0801/MERN-Blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mono0801&repo=MERN-Blog&theme=default" />
-</a>
+<details>
+  <summary><strong> Top Repositories </strong></summary>
+  
+  <a href="https://github.com/mono0801/ZIC-Server">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mono0801&repo=ZIC-Server&theme=default" />
+  </a>
+  <a href="https://github.com/mono0801/ZIC-Client">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mono0801&repo=ZIC-Client&theme=default" />
+  </a>
+  <br>
+  <a href="https://github.com/mono0801/MERN-Blog">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mono0801&repo=MERN-Blog&theme=default" />
+  </a>
+</details>
