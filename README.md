@@ -42,9 +42,7 @@ Here are some ideas to get you started:
   <br>
   
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
-  <!--
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flate&logo=redis&logoColor=white">
-  -->
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
   <br><br>
